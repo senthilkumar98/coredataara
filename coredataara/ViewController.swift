@@ -14,7 +14,6 @@ class ViewController: UIViewController
     @IBOutlet weak var t2: UITextField!
     var a = "bjbjb"
     var c = "nknk"
-    var d = "hii"
     @IBAction func pass(_ sender: Any)
     {
         SaveRecord()
