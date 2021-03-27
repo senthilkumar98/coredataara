@@ -12,7 +12,8 @@ class ViewController: UIViewController
 {
     @IBOutlet weak var t1: UITextField!
     @IBOutlet weak var t2: UITextField!
-    var <#name#> = <#value#>
+    var a = "bjbjb"
+    var c = "nknk"
     
     @IBAction func pass(_ sender: Any)
     {
