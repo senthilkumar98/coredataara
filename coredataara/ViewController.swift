@@ -12,11 +12,12 @@ class ViewController: UIViewController
 {
     @IBOutlet weak var t1: UITextField!
     @IBOutlet weak var t2: UITextField!
+    var <#name#> = <#value#>
     
     @IBAction func pass(_ sender: Any)
     {
         SaveRecord()
-        performSegue(with
+        //performSegue(with
     }
     func SaveRecord()
     {
